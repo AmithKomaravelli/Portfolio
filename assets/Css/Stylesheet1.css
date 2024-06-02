@@ -8,7 +8,6 @@
     box-sizing: border-box;
     list-style: none;
     scroll-behavior: smooth;
-    overflow-x: hidden;
 }
 
 :root{
@@ -32,6 +31,7 @@ body{
     color: var(--c-text);
     scrollbar-width: none;
     background-color: var(--c-body);
+    overflow-x: auto;
 }
 
 h1,h2,h3,h4,h5,h6,
