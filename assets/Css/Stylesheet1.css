@@ -300,6 +300,7 @@ i {
 
 /* Footer */
 footer {
+    background: var(--c-dark);
     padding-top: 70px;
 }
 
